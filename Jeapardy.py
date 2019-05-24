@@ -1,6 +1,8 @@
 import urllib.request
 import re
 
+# Web scrubbing function for data mining of Jeapardy! questions
+
 # defines empty list for categories to be added to as strings
 categories = []
 
